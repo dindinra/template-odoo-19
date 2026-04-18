@@ -1,0 +1,10 @@
+# Mengabaikan file sampah sistem operasi
+.DS_Store
+Thumbs.db
+
+# Mengabaikan folder cache Python jika ada
+__pycache__/
+*.pyc
+
+# Mengabaikan data session jika terekam di lokal
+.odoo_sessions/
